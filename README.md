@@ -15,8 +15,7 @@ solve real-world problems.
 - 💡 Passionate about embedded systems
  and software development roles
 - 🧠 Final-year project: *Underground
- Cable Fault Detection using Arduino and
-  LM35 sensor*
+ Cable Fault Detection using Arduino Uno*
 - 🌱 Currently learning: *java, 
 *C Programming*, and exploring *Web 
 Development*
