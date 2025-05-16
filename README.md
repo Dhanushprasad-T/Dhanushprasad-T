@@ -1,5 +1,5 @@
 
-# Hello there! 👋 I'm Dhanush Prasad
+# Hello there! 👋 I'm Dhanush Prasad T
 
 I'm a recent *Electrical and 
 Electronics Engineering* graduate from 
