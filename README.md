@@ -22,9 +22,11 @@ Development*
 - 🛠 Tools & Tech: C | java | HTML
  | CSS | Arduino | SQL
 - ✅ Certifications:
-  - Programming in C – Udemy
-  - Python for Beginners – Scaler
-  - Basics in HTML, CSS – Udemy
+  - Mastering in C, Html & CSS – Udemy
+  - Python for Beginners – Scaler 
+  - Relational Databases - IBM cognitive class
+  - programming in core Java - Infosys SpringBoard
+  - Emdedded Systems - Kaashiv Infotech
 
 ## 📬 Connect with me
 
